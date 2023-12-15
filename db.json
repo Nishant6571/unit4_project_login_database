@@ -1,0 +1,25 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "firstName": "Sachin",
+        "lastName": "Mohite",
+        "age": 24,
+        "mobileNumber": "1234567890",
+        "username": "sachin",
+        "email": "sachin@gmail.com",
+        "password": "12345678"
+      },
+      {
+        "id": 2,
+        "firstName": "nishant",
+        "lastName": "bhargava",
+        "age": 25,
+        "mobileNumber": "12345678",
+        "username": "nishant",
+        "email": "nishant@gmail.com",
+        "password": "12345678"
+      }
+    ]
+  }
+  
